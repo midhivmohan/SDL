@@ -1,0 +1,8 @@
+
+Resource Manager:
+It is the master daemon of Yarn. RM manages the global assignments of resources (CPU and memory) among all the applications.
+ It arbitrates system resources between competing applications. 
+Resource Manager has two Main components
+Scheduler
+Application manager
+
